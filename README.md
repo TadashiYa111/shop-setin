@@ -1,9 +1,3 @@
-# Streamlit Tutorial 👋
-
-🎯 This Github directory aims to present the advantages of [Streamlit.io](https://streamlit.io/) in the development of a Data application, whether for the deployment of a personal project on the web or the creation of an MVP !
-
-✏️ I wrote a Medium article that explains in detail the code of this project: available here  : Lien.
-
 ## Project Description
 
 We will develop an application to search for trains eligible for the TGV Max subscription. (Subscription of 79 euros/month offered to young people which allows to book for free an unlimited number of eligible trains under conditions of low traffic)
@@ -63,7 +57,4 @@ We will develop an application to search for trains eligible for the TGV Max sub
 
 
 ## Want to go further in the development of a web application ?
-
-I have created a course on streamlit that will surely interest you to explore all the possibilities of creating a personal data project or developing an MVP !
-
---> [Link to the udemy course on Streamlit 🎉](https://www.udemy.com/course/streamlit-deployer-son-app-de-machine-learning-sur-le-web/)
+Can Deploy project on Streamlit freely.
